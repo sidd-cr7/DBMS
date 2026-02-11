@@ -1,11 +1,29 @@
-Resume Shortlisting Website:
-Candidates enter their data, such as education, experience, and skill sets.
+Resume Shortlisting Website
 
-We assign scores to the data 
-For example, a master's degree is ranked higher than a bachelor's degree
+This project is a resume shortlisting system designed to streamline the candidate evaluation process.
 
-We sort each candidate by their assigned scores.
+Candidates can enter their details, including:
 
-The recruiter can easily pick the top candidates from the admin portal and also sort and filter them based on their preferences 
+Education
 
-Uses MySQL to extract data from simple commands and also create schemas 
+Work experience
+
+Skill sets
+
+Certifications
+
+The system assigns weighted scores to each candidate based on predefined ranking criteria. For example, a Master’s degree is ranked higher than a Bachelor’s degree, and relevant experience or high-demand skills contribute additional points.
+
+All candidates are automatically sorted according to their total scores, allowing for objective and efficient shortlisting.
+
+An admin portal enables recruiters to:
+
+View ranked candidates
+
+Filter applicants based on specific criteria
+
+Sort candidates according to custom preferences
+
+Select top-performing profiles easily
+
+The application uses MySQL for database management, including schema creation, data storage, and structured data retrieval through optimized queries.
