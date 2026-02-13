@@ -4,13 +4,13 @@ This project is a resume shortlisting system designed to streamline the candidat
 
 Candidates can enter their details, including:
 
-Education
+Education and degrees
 
 Work experience
 
 Skill sets
 
-Certifications
+Certifications  
 
 The system assigns weighted scores to each candidate based on predefined ranking criteria. For example, a Master’s degree is ranked higher than a Bachelor’s degree, and relevant experience or high-demand skills contribute additional points.
 
