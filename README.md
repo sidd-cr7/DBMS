@@ -26,4 +26,4 @@ Sort candidates according to custom preferences
 
 Select top-performing profiles easily
 
-The application uses MySQL for database management, including schema creation, data storage, and structured data retrieval through optimized queries.
+The application uses MySQL for database management, including schema creation, data storage, and structured data retrieval through optimised queries.
