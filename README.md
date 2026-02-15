@@ -2,7 +2,7 @@ Resume Shortlisting Website
 
 This project is a resume shortlisting system designed to streamline the candidate evaluation process.
 
-
+---
 
 Candidates can enter their details, including:
 
