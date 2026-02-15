@@ -2,6 +2,8 @@ Resume Shortlisting Website
 
 This project is a resume shortlisting system designed to streamline the candidate evaluation process.
 
+
+
 Candidates can enter their details, including:
 
 Education and degrees
@@ -15,8 +17,6 @@ Certifications
 The system assigns weighted scores to each candidate based on predefined ranking criteria. For example, a Master’s degree is ranked higher than a Bachelor’s degree, and relevant experience or high-demand skills contribute additional points.
 
 All candidates are automatically sorted according to their total scores, allowing for objective and efficient shortlisting.
-
-An admin portal enables recruiters to:
 
 View ranked candidates
 
