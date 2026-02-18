@@ -2,8 +2,6 @@
 
 This project is a resume shortlisting system designed to enhance the candidate evaluation process.
 
----
-
 Candidates can enter their details, including:
 
 Education and degrees
