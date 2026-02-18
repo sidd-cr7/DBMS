@@ -1,4 +1,4 @@
-Resume Shortlisting Website
+**Resume Shortlisting Website**
 
 This project is a resume shortlisting system designed to enhance the candidate evaluation process.
 
