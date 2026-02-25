@@ -4,41 +4,41 @@ A web-based resume shortlisting system designed to streamline and automate the c
 
 # Features
 
-Candidate Profile Submission
+i) Candidate Profile Submission
 
-Education and degrees
+    Education and degrees
 
-Work experience
+    Work experience
 
-Skill sets
+    Skill sets
 
-Certifications
+    Certifications
 
-Automated Candidate Scoring
+ii) Automated Candidate Scoring
 
-Assigns weighted scores based on predefined ranking criteria
+    Assigns weighted scores based on predefined ranking criteria
 
-Higher qualifications (e.g., Master’s degree) receive greater weight than lower qualifications
+    Higher qualifications (e.g., Master’s degree) receive greater weight than lower qualifications
 
-Relevant experience and high-demand skills contribute additional points
+    Relevant experience and high-demand skills contribute additional points
 
-Smart Candidate Ranking
+iii) Smart Candidate Ranking
 
-Automatically calculates total scores
+    Automatically calculates total scores
 
-Sorts candidates based on performance
+    Sorts candidates based on performance
 
-Enables objective and data-driven shortlisting
+    Enables objective and data-driven shortlisting
 
-Candidate Management
+iv) Candidate Management
 
-View ranked candidate profiles
+    View ranked candidate profiles
 
-Filter applicants based on specific criteria
+    Filter applicants based on specific criteria
 
-Sort candidates using custom preferences
+    Sort candidates using custom preferences
 
-Easily identify top-performing candidates
+    Easily identify top-performing candidates
 
 # Database Integration
 
