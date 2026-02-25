@@ -40,7 +40,7 @@ Sort candidates using custom preferences
 
 Easily identify top-performing candidates
 
-🗄️ Database Integration
+# Database Integration
 
 The system uses MySQL for efficient data management, including:
 
@@ -48,10 +48,10 @@ Database schema design
 
 Structured data storage
 
-Optimized query-based data retrieval
+Optimised query-based data retrieval
 
 Candidate ranking and filtering operations
 
-🎯 Objective
+# Objective
 
 The project aims to improve recruitment efficiency by reducing manual evaluation, ensuring fair candidate comparison, and enabling faster shortlisting through automated scoring and ranking.
