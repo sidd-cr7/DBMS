@@ -2,6 +2,8 @@
 
 A web-based resume shortlisting system designed to streamline and automate the candidate evaluation process. The application helps recruiters efficiently rank and filter candidates using a structured, score-based evaluation approach.
 
+---
+
 # Features
 
 i) Candidate Profile Submission
@@ -40,6 +42,8 @@ iv) Candidate Management
 
     Easily identify top-performing candidates
 
+---
+
 # Database Integration
 
 The system uses MySQL for efficient data management, including:
@@ -51,6 +55,8 @@ Structured data storage
 Optimised query-based data retrieval
 
 Candidate ranking and filtering operations
+
+---
 
 # Objective
 
