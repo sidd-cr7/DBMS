@@ -1,8 +1,10 @@
-**Resume Shortlisting Website**
+Resume Shortlisting System
 
-This project is a resume shortlisting system designed to enhance the candidate evaluation process.
+A web-based resume shortlisting system designed to streamline and automate the candidate evaluation process. The application helps recruiters efficiently rank and filter candidates using a structured, score-based evaluation approach.
 
-Candidates can enter their details, including:
+🚀 Features
+
+Candidate Profile Submission
 
 Education and degrees
 
@@ -10,18 +12,46 @@ Work experience
 
 Skill sets
 
-Certifications  
+Certifications
 
-The system assigns weighted scores to each candidate based on predefined ranking criteria. For example, a Master’s degree is ranked higher than a Bachelor’s degree, and relevant experience or high-demand skills contribute additional points.
+Automated Candidate Scoring
 
-All candidates are automatically sorted according to their total scores, allowing for objective and efficient shortlisting.
+Assigns weighted scores based on predefined ranking criteria
 
-View ranked candidates
+Higher qualifications (e.g., Master’s degree) receive greater weight than lower qualifications
+
+Relevant experience and high-demand skills contribute additional points
+
+Smart Candidate Ranking
+
+Automatically calculates total scores
+
+Sorts candidates based on performance
+
+Enables objective and data-driven shortlisting
+
+Candidate Management
+
+View ranked candidate profiles
 
 Filter applicants based on specific criteria
 
-Sort candidates according to custom preferences
+Sort candidates using custom preferences
 
-Select top-performing profiles easily
+Easily identify top-performing candidates
 
-The application uses MySQL for database management, including schema creation, data storage, and structured data retrieval through optimised queries.
+🗄️ Database Integration
+
+The system uses MySQL for efficient data management, including:
+
+Database schema design
+
+Structured data storage
+
+Optimized query-based data retrieval
+
+Candidate ranking and filtering operations
+
+🎯 Objective
+
+The project aims to improve recruitment efficiency by reducing manual evaluation, ensuring fair candidate comparison, and enabling faster shortlisting through automated scoring and ranking.
